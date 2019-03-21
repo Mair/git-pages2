@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.1d928507.chunk.css",
-  "main.js": "/static/js/main.e9dd1343.chunk.js",
-  "main.js.map": "/static/js/main.e9dd1343.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.3fb57f8a.chunk.js": "/static/js/2.3fb57f8a.chunk.js",
-  "static/js/2.3fb57f8a.chunk.js.map": "/static/js/2.3fb57f8a.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.59dbf3e3fd45411802deb94906032943.js": "/precache-manifest.59dbf3e3fd45411802deb94906032943.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.1d928507.chunk.css.map": "/static/css/main.1d928507.chunk.css.map"
+  "main.css": "https://mair.github.io/git-pages2/static/css/main.1d928507.chunk.css",
+  "main.js": "https://mair.github.io/git-pages2/static/js/main.50279c52.chunk.js",
+  "main.js.map": "https://mair.github.io/git-pages2/static/js/main.50279c52.chunk.js.map",
+  "runtime~main.js": "https://mair.github.io/git-pages2/static/js/runtime~main.ef1fe0b3.js",
+  "runtime~main.js.map": "https://mair.github.io/git-pages2/static/js/runtime~main.ef1fe0b3.js.map",
+  "static/js/2.3fb57f8a.chunk.js": "https://mair.github.io/git-pages2/static/js/2.3fb57f8a.chunk.js",
+  "static/js/2.3fb57f8a.chunk.js.map": "https://mair.github.io/git-pages2/static/js/2.3fb57f8a.chunk.js.map",
+  "index.html": "https://mair.github.io/git-pages2/index.html",
+  "precache-manifest.b3bf78eee893236bbe5d8141609ac6ea.js": "https://mair.github.io/git-pages2/precache-manifest.b3bf78eee893236bbe5d8141609ac6ea.js",
+  "service-worker.js": "https://mair.github.io/git-pages2/service-worker.js",
+  "static/css/main.1d928507.chunk.css.map": "https://mair.github.io/git-pages2/static/css/main.1d928507.chunk.css.map"
 }
